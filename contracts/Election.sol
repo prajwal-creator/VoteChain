@@ -23,11 +23,11 @@ contract Election {
     );
 
     constructor () public {
-        addCandidate("Raju Bista","Bharatiya Janata Party");
-        addCandidate("Sankar Malakar","Indian National Congress");
-        addCandidate("Saman Pathak","Communist Party Of India (Marxist)");
-        addCandidate("Amar Singh Rai","All India Trinamool Congress");
-        addCandidate("Sudip Mandal","Bahujan Samaj Party");
+        addCandidate("Prajwal Kumar","Bharatiya Janata Party");
+        addCandidate("Piyush Goyal","Indian National Congress");
+        addCandidate("Pavan K","Communist Party Of India (Marxist)");
+        addCandidate("Meda Balaji","All India Trinamool Congress");
+        addCandidate("P Charith","Aam Aadmi Party");
         addCandidate("NOTA","None of the above");
     }
 
